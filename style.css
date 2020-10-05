@@ -1,0 +1,19 @@
+body{
+	background-image: url('https://wallpaperaccess.com/full/464143.jpg');
+	/* background: #eaeaea; */
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+}
+
+.container{
+	background-color: #02020263;
+}
+
+.navbar, #form {
+	background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+}
+
+.card{
+	background: linear-gradient(to right, #ada996, #dbdbdb, #eaeaea);
+}
+
