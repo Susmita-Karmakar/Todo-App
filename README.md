@@ -1,7 +1,7 @@
 # Todo-App
 jQuery task1
 
-
+Click the given link to see how the app works   -->   https://susmita-karmakar.github.io/Todo-App/ 
 
 ![jquery-task1](https://user-images.githubusercontent.com/67648510/95036254-f94fd180-06e4-11eb-9cb2-8e0145d5dea4.png)
 
